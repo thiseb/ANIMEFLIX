@@ -1,0 +1,8 @@
+.boton {
+    background: transparent;
+    color: #ffffff;
+    outline: none;
+    border-style: none;
+    border: 1px solid white;
+    width: 10rem
+}

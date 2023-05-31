@@ -1,0 +1,14 @@
+.header {
+    background: #000000;
+}
+
+.logo__header {
+    height: 2.5rem;
+}
+
+.container__logo__boton {
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid gold;
+}
